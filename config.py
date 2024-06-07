@@ -84,8 +84,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ : {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ : {duration}
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•»</b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ \nAɴᴅ Sᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-📖 Oᴛʜᴇʀ Hᴇʟᴘ :- <a href=https://t.me/SilvaBotz>𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽</a>
-"""
+📖 Oᴛʜᴇʀ Hᴇʟᴘ :- <a href=https://t.me/SilvaBotz>𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽</a>"""
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>⭕ Dᴇᴠᴇʟᴏᴩᴇʀ</u>
