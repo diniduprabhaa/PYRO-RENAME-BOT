@@ -88,9 +88,9 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ : {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>⭕ Dᴇᴠᴇʟᴏᴩᴇʀ</u>
-» <a href=https://t.me/DiniduSilva>Pʀɪᴍᴇ සිල්වා</a>"""
+» <a href=https://t.me/DiniduSilva>Pʀɪᴍᴇ සිල්වා</a>
 
-<blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ 🇱🇰</blockquote></b>
+<blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ 🇱🇰</blockquote></b>"""
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰Pʀᴏɢʀᴇꜱꜱ Bᴀʀ❱━➣
