@@ -36,8 +36,8 @@ async def start(client, message):
     button = InlineKeyboardMarkup([[
         InlineKeyboardButton("⭕ Dᴠᴇʟᴏᴘᴇʀ", callback_data='dev')
         ],[
-        InlineKeyboardButton('☘️ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/SilvaBotz'),
-        InlineKeyboardButton('🌼 Sᴜᴩᴩᴏʀᴛ', url='https://t.me/SilvaBotz_Chat')
+        InlineKeyboardButton('☘️ Cʜᴀɴɴᴇʟ', url='https://t.me/SilvaFilmZone'),
+        InlineKeyboardButton('🌼 Gʀᴏᴜᴘ', url='https://t.me/SilvaMovieZone')
         ],[
         InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('📖 Hᴇʟᴩ', callback_data='help')
@@ -58,8 +58,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup([[
                 InlineKeyboardButton("⭕ Dᴇʟᴏᴘᴇʀ", callback_data='dev')
                 ],[
-                InlineKeyboardButton('☘️ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/SilvaBotz'),
-                InlineKeyboardButton('🌼 Sᴜᴩᴩᴏʀᴛ', url='https://t.me/SilvaBotz_Chat')
+                InlineKeyboardButton('☘️ Cʜᴀɴɴᴇʟ', url='https://t.me/SilvaFilmZone'),
+                InlineKeyboardButton('🌼 Gʀᴏᴜᴘ', url='https://t.me/SilvaMovieZone')
                 ],[
                 InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton('📖 Hᴇʟᴩ', callback_data='help')
@@ -71,12 +71,12 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("⭕ Dᴇᴠᴇʟᴏᴘᴇʀ", url="https:/t.me/DiniduSilva")
+                InlineKeyboardButton("🌼 Gʀᴏᴜᴘ", url="https:/t.me/SilvaMovieZone")
                 ],[
-                InlineKeyboardButton("🌼 Uᴘᴅᴀᴛᴇꜱ", url='https://t.me/SilvaBotz')
+                InlineKeyboardButton("☘️ Cʜᴀɴɴᴇʟ", url='https://t.me/SilvaFilmZone')
                 ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton("⭕ Cʟᴏꜱᴇ", callback_data = "close"),
+                InlineKeyboardButton("⭕ Bᴀᴄᴋ", callback_data = "start")
             ]])            
         )
     elif data == "about":
@@ -85,12 +85,12 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("⭕ Dᴇᴠᴇʟᴏᴘᴇʀ", url="https:/t.me/DiniduSilva")
+                InlineKeyboardButton("🌼 Gʀᴏᴜᴘ", url="https:/t.me/SilvaMovieZone")
                 ],[
-                InlineKeyboardButton("🌼 Uᴘᴅᴀᴛᴇꜱ", url="https:/t.me/SilvaBotz")
+                InlineKeyboardButton("☘️ Cʜᴀɴɴᴇʟ", url="https:/t.me/SilvaFilmZone")
                 ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton("⭕ Cʟᴏꜱᴇ", callback_data = "close"),
+                InlineKeyboardButton("⭕ Bᴀᴄᴋ", callback_data = "start")
             ]])            
         )
     elif data == "dev":
@@ -99,12 +99,12 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("⭕ Dᴇᴠᴇʟᴏᴘᴇʀ", url="https:/t.me/DiniduSilva")
+                InlineKeyboardButton("🌼 Gʀᴏᴜᴘ", url="https:/t.me/SilvaMovieZone")
                 ],[
-                InlineKeyboardButton("🌼 Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/SilvaBotz")
+                InlineKeyboardButton("☘️ Cʜᴀɴɴᴇʟ", url="https://t.me/SilvaFilmZone")
                 ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton("⭕ Cʟᴏꜱᴇ", callback_data = "close"),
+                InlineKeyboardButton("⭕ Bᴀᴄᴋ", callback_data = "start")
             ]])          
         )
     elif data == "close":
